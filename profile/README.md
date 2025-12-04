@@ -92,5 +92,3 @@ Seeday 조직은 여러 플랫폼/역할별 리포지토리로 구성되어 있�
 | 김용해 | [@Kimyonhae](https://github.com/Kimyonhae) | iOS |
 | 전우선 | [@wooxexn](https://github.com/wooxexn) | Backend |
 | 최준영 |  | 씨드데이 디자이너 |
-
-> 실제 인원 정보는 `orgs/Record-Management/people` 페이지나, 팀 내부 문서를 기준으로 갱신해 주세요.

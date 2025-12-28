@@ -5,6 +5,10 @@
 
 ---
 
+플레이스토어 주소 : https://play.google.com/store/apps/details?id=see.day.app  
+앱스토어 주소 : https://apps.apple.com/kr/app/%EC%94%A8%EB%93%9C-%EB%8D%B0%EC%9D%B4/id6753913555  
+
+
 ## 🌱 씨드데이란?
 
 씨드데이는 사용자의 **하루를 기록하고 돌아보는 경험**을 통해  
